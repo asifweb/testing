@@ -1,2 +1,2 @@
 <?php 
-echo "hello auto build in jenkins";
+ech "hello auto build in jenkins";
